@@ -10,7 +10,7 @@ Installation Requirements
 6. WHMCS 7.10
 7. Network Access Server (Mikrotik / Cisco) or whatever available
 
-Note: Code can be modified based on the dictionary of the Network Access Server (NSA) device by default it is configured with Mikrotik but can be configured with any NAS device.
+Note: Code can be modified based on the dictionary of the Network Access Server (NAS) device by default it is configured with Mikrotik but can be configured with any NAS device.
 
 Online Installation Charges $125
 Remote Setup service is available which includes WHMCS installation, Radius Server Installation, MySQL Server Installation, Web Server Nginx or Apache and module installation and testing.

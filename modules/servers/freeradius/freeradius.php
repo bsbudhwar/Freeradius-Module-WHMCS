@@ -7,3 +7,5 @@
 if (!defined("WHMCS")) {
     die("This file cannot be accessed directly");
 }
+
+Then PHP Code for futher module actions.....

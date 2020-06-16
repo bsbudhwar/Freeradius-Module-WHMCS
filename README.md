@@ -15,6 +15,6 @@ Note: Code can be modified based on the dictionary of the Network Access Server 
 Online Installation Charges $125
 Remote Setup service is available which includes WHMCS installation, Radius Server Installation, MySQL Server Installation, Web Server Nginx or Apache and module installation and testing.
 
-www.bsbdips.com
-sales@bsbdips.com
+www.bsbdips.com <b/>
+sales@bsbdips.com <b/>
 Mobile: +91-9491627080

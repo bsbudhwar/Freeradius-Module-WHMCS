@@ -20,5 +20,5 @@ www.bsbdips.com
 sales[dot]bsbdips.com
 <br/>
 Mobile: +91-9491627080
-</br/>
+<br/>
 Buy online at https://cart.bsbdips.com/store/software-services

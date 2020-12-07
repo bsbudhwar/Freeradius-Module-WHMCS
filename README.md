@@ -22,3 +22,5 @@ sales[dot]bsbdips.com
 Mobile: +91-9491627080
 <br/>
 Buy online at https://cart.bsbdips.com/store/software-services
+
+Hi we have a 25% off promo code 246LJK3PXL for (Winter) December 2020 (Valid from 1st Dec 2020 to 31st Dec 2020) for all software products.

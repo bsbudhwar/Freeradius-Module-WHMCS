@@ -14,8 +14,8 @@ Installation Requirements
 
 Note: Code can be modified based on the dictionary of the Network Access Server (NAS) device by default it is configured with Mikrotik but can be configured with any NAS device.
 
-Online Installation Charges $125
-Remote Setup service is available which includes WHMCS installation, Radius Server Installation, MySQL Server Installation, Web Server Nginx or Apache and module installation and testing.
+<b>Online Installation Charges $125
+Remote Setup service is available which includes WHMCS installation, Radius Server Installation, MySQL Server Installation, Web Server Nginx or Apache and module installation and testing.</b>
 
 www.bsbdips.com
 <br/>
@@ -24,5 +24,3 @@ sales[dot]bsbdips.com
 Mobile: +91-9491627080
 <br/>
 Buy online at https://cart.bsbdips.com/store/software-services
-
-Hi we have a 25% off promo code 246LJK3PXL for (Winter) December 2020 (Valid from 1st Dec 2020 to 31st Dec 2020) for all software products.

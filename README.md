@@ -14,8 +14,7 @@ Installation Requirements
 
 Note: Code can be modified based on the dictionary of the Network Access Server (NAS) device by default it is configured with Mikrotik but can be configured with any NAS device.
 
-<b>Online Installation Charges $125
-Remote Setup service is available which includes WHMCS installation, Radius Server Installation, MySQL Server Installation, Web Server Nginx or Apache and module installation and testing.</b>
+<b>Remote Setup Charges $ 100, Remote Setup service is available which includes WHMCS installation, Radius Server Installation, MySQL Server Installation, Web Server Nginx or Apache and module installation and testing.</b>
 
 www.bsbdips.com
 <br/>

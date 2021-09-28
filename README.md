@@ -1,3 +1,5 @@
+Standard Module Available For $ 80, For customized module as per your requirement contact us.
+
 # Freeradius-Module-WHMCS
 Module for Internet Service Providers with WHMCS billing and based on Freeradius and MySQL server
 

@@ -1,4 +1,6 @@
-<b>Standard Module Available For USD $100, For customized module as per your requirement contact us.</b>
+<b>Encrypted Module Available For USD $100, For customized module as per your requirement contact us.</b>
+
+<b>Open source code module USD $325, to by open source module contact contact us.</b>
 
 # Freeradius-Module-WHMCS
 Module for Internet Service Providers with WHMCS billing and based on Freeradius and MySQL server

@@ -14,6 +14,19 @@ Installation Requirements
 6. WHMCS 8.6.1 and above
 7. Network Access Server (Mikrotik / Cisco) or whatever available
 
+Actions supported
+ 1. Create username and password in Radius server database
+ 2. Upgrade or downgrade packages
+ 3. Change user password
+ 4. suspend users on overdue invoice
+ 5. automatic unsuspened the user on invoce payment
+ 6. Static IP assignement from Admin interface.
+ 7. shows usernme and passord of the users for easy copy
+ 8. Shows user statis online/offline
+ 9. shows user IP assigned by NAS/Radius 
+ 10. Shows device MAC address from where PPPoE dialer created.
+ 11. Shows downloads and uploads and total (Downloads + uploads) and Quota
+
 Note: Code can be modified based on the dictionary of the Network Access Server (NAS) device by default it is configured with Mikrotik but can be configured with any NAS device.
 
 <b>Remote Setup Charges $ 150, Remote Setup service is available which with WHMCS installation, Radius Server Installation, MySQL Server Installation, Web Server Nginx or Apache and module installation and testing.</b>

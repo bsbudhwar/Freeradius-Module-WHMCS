@@ -1,7 +1,3 @@
-<b>Encrypted Module Available For USD $100, For customized module as per your requirement contact us.</b>
-
-<b>Open source code module USD $325, to by open source module contact contact us.</b>
-
 # Freeradius-Module-WHMCS
 Module for Internet Service Providers with WHMCS billing and based on Freeradius and MySQL server
 
@@ -37,4 +33,6 @@ sales[dot]bsbdips.com
 <br/>
 Mobile: +91-9491627080
 <br/>
-Buy online at https://cart.bsbdips.com/store/software-services
+Buy online at our store https://cart.bsbdips.com/store/software-services
+<br/>
+Buy From WHMCS Marketplace https://marketplace.whmcs.com/product/6861-freeradius-module-for-whmcs

@@ -7,7 +7,7 @@ Installation Requirements
 3. MySQL Database 8.0.31
 4. Web Server Apache or Nginx
 5. PHP 8.1 or 8.2
-6. WHMCS 8.6.1 and above
+6. WHMCS 8.6 and above
 7. Network Access Server (Mikrotik / Cisco) or whatever available
 
 Actions supported
@@ -17,11 +17,12 @@ Actions supported
  4. suspend users on overdue invoice
  5. automatic unsuspened the user on invoce payment
  6. Static IP assignement from Admin interface.
- 7. shows usernme and passord of the users for easy copy
- 8. Shows user statis online/offline
- 9. shows user IP assigned by NAS/Radius 
- 10. Shows device MAC address from where PPPoE dialer created.
- 11. Shows downloads and uploads and total (Downloads + uploads) and Quota
+ 7. Reset User Device MAC Address (This option also available in client area)
+ 8. shows usernme and passord of the users for easy copy from client area
+ 9. Shows user statis online/offline
+ 10. shows user current session IP address in client area 
+ 11. Shows the user device MAC address in client area.
+ 12. Shows downloads and uploads and total (Downloads + uploads) and Quota
 
 Note: Code can be modified based on the dictionary of the Network Access Server (NAS) device by default it is configured with Mikrotik but can be configured with any NAS device.
 

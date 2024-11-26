@@ -32,6 +32,6 @@ sales[dot]bsbdips.com
 <br/>
 Mobile: +91-9491627080
 <br/>
-Buy online at our store https://cart.bsbdips.com/store/software-services
+Buy online at our e-store https://cart.bsbdips.com/store/software-services
 <br/>
 Buy From WHMCS Marketplace https://marketplace.whmcs.com/product/6861-freeradius-module-for-whmcs

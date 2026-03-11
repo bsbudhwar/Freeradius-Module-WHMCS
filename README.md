@@ -24,6 +24,9 @@ Actions supported
  11. Shows the user device MAC address in client area.
  12. Shows downloads and uploads and total (Downloads + uploads) and Quota
 
+For installation & support visit our knowledgebase section 
+https://cart.bsbdips.com/knowledgebase/2/Installation-of-FreeRadius-WHMCS-Module.html
+
 Note: Code can be modified based on the dictionary of the Network Access Server (NAS) device by default it is configured with Mikrotik but can be configured with any NAS device.
 
 www.bsbdips.com
